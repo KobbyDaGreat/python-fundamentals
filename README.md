@@ -1,18 +1,18 @@
 # Python Fundamentals
 
-This repository contains Python programs developed as part of my coursework and independent practice.
-
-## Topics Covered
-- Input validation
-- Functions
-- Loops
-- Conditional statements
-- Exception handling
+This repository contains beginner Python projects demonstrating core programming concepts.
 
 ## Projects
-- Future Value Calculator (Coming Soon)
-- Budget Analysis Program (Coming Soon)
-- Commission Calculator (Coming Soon)
+
+### 1. Expense Pie Chart
+- Reads expense data from a file
+- Uses matplotlib to visualize spending
+- Concepts: file handling, lists, plotting
+
+### 2. Salary Calculator
+- Calculates gross pay, tax, and net salary
+- Uses functions and lists
+- Concepts: loops, conditionals, modular programming
 
 ## Goal
 To build a strong foundation in Python programming and prepare for software development and AI-related roles.
